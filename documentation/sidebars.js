@@ -12,10 +12,6 @@
 module.exports = {
   docs: [
     {
-      type: "doc",
-      id: "overview",
-    },
-    {
       type: "category",
       label: "Getting Started",
       items: [
