@@ -23,21 +23,31 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Key Concepts",
-      items: [
-        {
-          type: "doc",
-          id: "key_concepts/README",
-        },
-      ],
-    },
-    {
-      type: "category",
       label: "Examples",
       items: [
         {
           type: "doc",
           id: "examples/README",
+        },
+      ],
+    },
+    {
+      type: "category",
+      label: "Tutorials",
+      items: [
+        {
+          type: "doc",
+          id: "tutorials/README",
+        },
+      ],
+    },
+    {
+      type: "category",
+      label: "Key Concepts",
+      items: [
+        {
+          type: "doc",
+          id: "key_concepts/README",
         },
       ],
     },

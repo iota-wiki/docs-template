@@ -47,21 +47,21 @@ You do not need to use all of these sections, so please feel free to delete any 
 
 The [Getting Started folder](documentation/getting_started/README.md) should be the first section in your documentation. It should give the user a high-level overview of the project, required prior knowledge, prerequisites, and ideally a quick setup guide, or "hello world".
 
-### Key Concepts
-
-The [Key concepts folder](documentation/key_concepts/README.md) revolves around [explanations](https://diataxis.fr/explanation/), and are therefore **understanding oriented**.
-
 ### Examples
 
 The [Examples folder](documentation/examples/README.md) should only address concrete examples, or [how-to guides](https://diataxis.fr/how-to-guides/), which are **goal oriented**.
 
-### Reference
-
-The [Reference folder](documentation/reference/README.md) should describe the [technical information](https://diataxis.fr/reference/) of your project. It is **information-oriented**.
-
 ### Tutorials
 
 The [Tutorials folder](documentation/tutorials/README.md) should contain articles which guide the user step by step through a series of how-tos with the relevant explanations to achieve a project or real world use case. [Tutorials](https://diataxis.fr/tutorials/) are **learning-oriented**.
+
+### Key Concepts
+
+The [Key concepts folder](documentation/key_concepts/README.md) revolves around [explanations](https://diataxis.fr/explanation/), and are therefore **understanding oriented**.
+
+### Reference
+
+The [Reference folder](documentation/reference/README.md) should describe the [technical information](https://diataxis.fr/reference/) of your project. It is **information-oriented**.
 
 ### Troubleshooting
 
