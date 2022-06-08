@@ -13,7 +13,7 @@ The documentation is built using [Docusaurus 2](https://docusaurus.io/). The dep
 yarn
 ```
 
-This command installs all needed dependencies.
+This command installs all necessary dependencies.
 
 ## Local Development
 
@@ -21,7 +21,7 @@ This command installs all needed dependencies.
 yarn start
 ```
 
-This command starts a local, wiki themed, development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local, wiki themed development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ## Including .md file
 
@@ -45,7 +45,7 @@ You do not need to use all of these sections, so please feel free to delete any 
 
 ### Getting Started
 
-The [Getting Started folder](documentation/getting_started/README.md) should be the first section in your documentation. It should give the user a high level overview of the project, required prior knowledge, prerequisites, and ideally a quick set up guide, or "hello world".
+The [Getting Started folder](documentation/getting_started/README.md) should be the first section in your documentation. It should give the user a high-level overview of the project, required prior knowledge, prerequisites, and ideally a quick setup guide, or "hello world".
 
 ### Key Concepts
 
