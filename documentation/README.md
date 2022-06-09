@@ -23,17 +23,27 @@ yarn start
 
 This command starts a local, wiki themed development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## Including .md file
+## Including Markdown or MDX from another file
+*partial.mdx*
 
-```console
-{@import <file path>}
+```
+<span>This is some {props.text}.</span>
+
+And plain **markdown** is also supported.
 ```
 
-Example:
+*page.mdx*
 
-```console
-{@import ../../../../bindings/wasm/docs/api-reference.md}
 ```
+import Partial from './partial.md'
+
+<Partial text='partial markdown' />
+```
+
+Would render:
+> This is some partial markdown.
+> 
+> And plain **markdown** is also supported.
 
 ## Default Structure
 
