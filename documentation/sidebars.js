@@ -27,7 +27,7 @@ module.exports = {
       items: [
         {
           type: "doc",
-          id: "how-tos/README",
+          id: "how_tos/README",
         },
       ],
     },

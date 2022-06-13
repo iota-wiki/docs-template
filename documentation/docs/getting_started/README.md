@@ -35,7 +35,7 @@ official installation instructions. For example:
 
 You should use this subsection to give the user concrete and concise instructions on how to install the project.
 Ideally, these should be very short, and if an in depth explanation is required to install extensions or
-non-essential software you should address it in the [How Tos](../how-tos/README.mdx) or
+non-essential software you should address it in the [How Tos](../how_tos/README.mdx) or
 [Tutorials](../tutorials/README.mdx) folders.
 
 ### NPM Install Example
@@ -55,7 +55,7 @@ yarn add @iota/client-wasm
 You should use this subsection to provide the users with the simplest possible example in which they can use the project
 after installing it, as well as minimal explanations if required. Keep in mind that as in the
 [Install the Project](#install-the-project) subsection, complex use cases should be addressed in the
-[How Tos](../how-tos/README.mdx) or [Tutorials](../tutorials/README.mdx). For example:
+[How Tos](../how_tos/README.mdx) or [Tutorials](../tutorials/README.mdx). For example:
 
 ### NodeJS Usage Example
 
