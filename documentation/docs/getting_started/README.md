@@ -10,6 +10,8 @@ keywords:
 
 # Example Getting Started File
 
+This can for example be use as "getting started" for languages. Just create a page for every language like "java.md" in this folder.
+
 ## Required Prior Knowledge
 
 You should list any knowledge the user requires to properly understand your project, and it's source code and examples.
