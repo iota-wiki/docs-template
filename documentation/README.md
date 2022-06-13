@@ -54,7 +54,7 @@ The [Key concepts folder](documentation/key_concepts/README.md) revolves around 
 
 ### Reference
 
-The [Reference folder](documentation/reference/README.md) should describe the [technical information](https://diataxis.fr/reference/) of your project. It is **information-oriented**.
+The [References folder](documentation/references/README.md) should describe the [technical information](https://diataxis.fr/reference/) of your project. It is **information-oriented**.
 
 ### Troubleshooting
 
