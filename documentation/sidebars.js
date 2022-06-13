@@ -12,6 +12,11 @@
 module.exports = {
   docs: [
     {
+      type: "doc",
+      id: "welcome",
+      label: "Welcome",
+    },
+    {
       type: "category",
       label: "Getting Started",
       items: [
