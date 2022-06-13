@@ -27,7 +27,7 @@ All the code is open source and hosted on [GitHub](https://github.com/iotawiki/d
 This documentation is also open source and hosted on GitHub.
 
 If you want to contribute new documentation or fix an error, see
-the [Code of Conduct](../.github/CODE_OF_CONDUCT.md).
+the [Code of Conduct](../../.github/CODE_OF_CONDUCT).
 
 ## Share Your Knowledge
 

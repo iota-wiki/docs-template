@@ -23,11 +23,11 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Examples",
+      label: "How Tos",
       items: [
         {
           type: "doc",
-          id: "examples/README",
+          id: "how-tos/README",
         },
       ],
     },
