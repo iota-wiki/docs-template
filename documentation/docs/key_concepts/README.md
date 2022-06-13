@@ -22,7 +22,7 @@ different subject while doing so, you should add a link to that subjects explana
 The main topic should be the first header in the article, and any subtopics (or even a subtopic's subtopic) should
 follow hierarchically by using the appropriate header tag level.
 
-## Related Examples
+## Related How Tos And Tutorials
 
-Your explanation articles will probably relate to one or more examples or tutorials. Please make sure to list them
+Your explanation articles will probably relate to one or more [How Tos](../how_tos/README.mdx) or [tutorials](../tutorials/README.mdx). Please make sure to list them
 in the article, so the user can have a hands-on experience while learning the concepts, or visit them afterwards.

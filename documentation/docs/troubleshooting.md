@@ -12,7 +12,7 @@ keywords:
 ---
 # Troubleshooting
 
-You should use the trouble-shooting section to answer FAQs, common problems and point the users to forums or websites
+You should use the troubleshooting section to answer FAQs, common problems and point the users to forums or websites
 where they may find answers you could not provide within the documentation.
 
 ## Stack Exchange
