@@ -23,27 +23,10 @@ yarn start
 
 This command starts a local, wiki themed development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## Including Markdown or MDX from another file
-*partial.mdx*
+## MDX Features
 
-```
-<span>This is some {props.text}.</span>
+You can find guidance and an introduction to the needed tools and syntax on [our wiki](https://wiki.iota.org/participate/contribute-to-wiki/for_devs/developer_guide)
 
-And plain **markdown** is also supported.
-```
-
-*page.mdx*
-
-```
-import Partial from './partial.md'
-
-<Partial text='partial markdown' />
-```
-
-Would render:
-> This is some partial markdown.
-> 
-> And plain **markdown** is also supported.
 
 ## Default Structure
 
