@@ -48,9 +48,9 @@ The [How Tos folder](documentation/how_tos/_README.md) should only address concr
 
 The [Tutorials folder](documentation/tutorials/_README.md) should contain articles which guide the user step by step through a series of how-tos with the relevant explanations to achieve a project or real world use case. [Tutorials](https://diataxis.fr/tutorials/) are **learning-oriented**.
 
-### Key Concepts
+### Concepts
 
-The [Key concepts folder](documentation/key_concepts/_README.md) revolves around [explanations](https://diataxis.fr/explanation/), and are therefore **understanding-oriented**.
+The [Concepts folder](documentation/key_concepts/_README.md) revolves around [explanations](https://diataxis.fr/explanation/), and are therefore **understanding-oriented**.
 
 ### Reference
 
