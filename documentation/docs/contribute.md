@@ -10,9 +10,10 @@ keywords:
 - GitHub
 - reference
 ---
+
 # Contribute to the Project
 
-**Thank you for considering a contribution to this project. You can help it in the following ways:**
+Thank you for considering a contribution to this project. You can help it in the following ways:
 
 ## Contribute to the Project’s GitHub Repository
 
