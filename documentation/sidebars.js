@@ -48,7 +48,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Key Concepts",
+      label: "Explanations",
       items: [
         {
           type: "doc",
