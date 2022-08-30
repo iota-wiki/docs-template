@@ -17,34 +17,19 @@ module.exports = {
       label: "Welcome",
     },
     {
-      type: "category",
+      type: "link",
       label: "Getting Started",
-      items: [
-        {
-          type: "doc",
-          id: "getting_started/README",
-        },
-      ],
+      href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/getting_started"
     },
     {
-      type: "category",
+      type: "link",
       label: "How Tos",
-      items: [
-        {
-          type: "doc",
-          id: "how_tos/README",
-        },
-      ],
+      href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/how_tos"
     },
     {
-      type: "category",
+      type: "link",
       label: "Tutorials",
-      items: [
-        {
-          type: "doc",
-          id: "tutorials/README",
-        },
-      ],
+      href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/tutorials"
     },
     {
       type: "category",
@@ -57,14 +42,9 @@ module.exports = {
       ],
     },
     {
-      type: "category",
+      type: "link",
       label: "Reference",
-      items: [
-        {
-          type: "doc",
-          id: "reference/README",
-        },
-      ],
+      href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/reference"
     },
     {
       type: "doc",
