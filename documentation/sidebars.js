@@ -32,14 +32,9 @@ module.exports = {
       href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/tutorials"
     },
     {
-      type: "category",
+      type: "link",
       label: "Explanations",
-      items: [
-        {
-          type: "doc",
-          id: "key_concepts/README",
-        },
-      ],
+      href: "https://wiki.iota.org/learn/contribute-to-wiki/reference/structure/explanations",
     },
     {
       type: "link",
