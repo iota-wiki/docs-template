@@ -2803,8 +2803,8 @@ __metadata:
   linkType: hard
 
 "@iota-wiki/cli@npm:latest":
-  version: 2.1.0
-  resolution: "@iota-wiki/cli@npm:2.1.0"
+  version: 2.1.1
+  resolution: "@iota-wiki/cli@npm:2.1.1"
   dependencies:
     "@babel/generator": ^7.17.9
     "@babel/parser": ^7.17.9
@@ -2826,7 +2826,7 @@ __metadata:
     typescript: "*"
   bin:
     iota-wiki: dist/cli/src/index.js
-  checksum: f559db579196e790ea0225c27f94f1064581722149954eb233c8424180d1123ca0628aba93d8d2363f8fd43292094a23a3c0d9de51c3fda201c9d8d39ffc3638
+  checksum: 5f4418bfe9f5c3d391a8bdb29f30cf477008cbd783706e8f7835e2e13fe09c64fce8c311e37b84b0bd6a174f56ee205f58e39b430152c533b9878a47f3bf1ac8
   languageName: node
   linkType: hard
 
